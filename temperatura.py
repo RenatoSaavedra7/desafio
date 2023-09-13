@@ -7,4 +7,4 @@ def celsius_a_kelvin(celsius):
 if __name__=="__main__":
     celsius = 25
     fahrenheit = celsius_a_fahrenheit(celsius)
-    print(f"{celsius} grados celsius son equivalentes a {fahrenheit} grados farenheit") 
+    print(f"{celsius} grados celsius son equivalentes a {fahrenheit} grados farenheit")
